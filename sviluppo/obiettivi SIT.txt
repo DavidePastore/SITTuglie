@@ -1,0 +1,19 @@
+1 shape servizi:
+	parchi urbani
+	aree di ritrovo
+	cimitero
+	farmacie
+	luoghi di culto
+	cappelle rurali
+	ospedale
+	guardia medica	
+	agriturismi
+	b&b
+	municipio
+	attivita commerciali
+	attività di ristorazione
+	edicole
+	tabacchi
+
+
+2 shape perimetro urbano + agglomerazione esterne e case sparse
