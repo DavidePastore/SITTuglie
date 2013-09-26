@@ -24,7 +24,7 @@
         </destinationsrs>
     </mapcanvas>
     <legend updateDrawingOrder="true">
-        <legendgroup open="false" checked="Qt::Unchecked" name="Tuglie">
+        <legendgroup open="false" checked="Qt::PartiallyChecked" name="Tuglie">
             <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="aree_verdi_urbane" showFeatureCount="0">
                 <filegroup open="false" hidden="false">
                     <legendlayerfile isInOverview="0" layerid="aree_verdi_urbane20130919181032042" visible="0"/>
@@ -75,9 +75,9 @@
                     <legendlayerfile isInOverview="0" layerid="tuglie_poi_shp20130917023817015" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_pol.shp" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="tuglie_pol.shp" showFeatureCount="0">
                 <filegroup open="false" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="tuglie_pol_shp20130917023540812" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="tuglie_pol_shp20130917023540812" visible="1"/>
                 </filegroup>
             </legendlayer>
             <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_UDS.shp" showFeatureCount="0">
@@ -85,9 +85,9 @@
                     <legendlayerfile isInOverview="0" layerid="tuglie_UDS_shp20130917024302250" visible="0"/>
                 </filegroup>
             </legendlayer>
-            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="uliveti" showFeatureCount="0">
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="uliveti" showFeatureCount="0">
                 <filegroup open="false" hidden="false">
-                    <legendlayerfile isInOverview="0" layerid="uliveti20130919172435568" visible="0"/>
+                    <legendlayerfile isInOverview="0" layerid="uliveti20130919172435568" visible="1"/>
                 </filegroup>
             </legendlayer>
         </legendgroup>
@@ -369,9 +369,9 @@
                 </filegroup>
             </legendlayer>
         </legendgroup>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="comuni_provincia" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="comuni_provincia" showFeatureCount="0">
             <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="comuni_provincia20130926154858326" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="comuni_provincia20130926154858326" visible="0"/>
             </filegroup>
         </legendlayer>
     </legend>
