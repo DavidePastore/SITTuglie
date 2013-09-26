@@ -4,9 +4,9 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>760216.163686</xmin>
+            <xmin>760128.174420</xmin>
             <ymin>4438986.073600</ymin>
-            <xmax>767268.518400</xmax>
+            <xmax>767348.442342</xmax>
             <ymax>4443371.966580</ymax>
         </extent>
         <projections>0</projections>
@@ -24,99 +24,342 @@
         </destinationsrs>
     </mapcanvas>
     <legend updateDrawingOrder="true">
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="servizi" showFeatureCount="0">
+        <legendgroup open="false" checked="Qt::Unchecked" name="Tuglie">
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="aree_verdi_urbane" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="aree_verdi_urbane20130919181032042" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="capelle_cimitero" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="capelle_cimitero20130919173934315" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="conifere" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="conifere20130919172751230" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="edifici_civili" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="edifici_civili20130919180740012" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="latifoglie" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="latifoglie20130919172943537" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="pascoli" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="pascoli20130919173215201" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="servizi" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="servizi20130917025603906" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tessuto_residenziale" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="tessuto_residenziale20130919181412321" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_lin.shp" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="tuglie_lin_shp20130917023651828" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_poi.shp" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="tuglie_poi_shp20130917023817015" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_pol.shp" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="tuglie_pol_shp20130917023540812" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_UDS.shp" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="tuglie_UDS_shp20130917024302250" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="uliveti" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="uliveti20130919172435568" visible="0"/>
+                </filegroup>
+            </legendlayer>
+        </legendgroup>
+        <legendgroup open="false" checked="Qt::Unchecked" name="SIC_ZPS_PARCHI">
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="complessivo_PNR_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="complessivo_PNR_UTM20130926182932512" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="iba_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="iba_UTM20130926182849683" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Parchi_Nazionali_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="Parchi_Nazionali_UTM20130926182758401" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Riserve_Naturali_Orientate_Regionali_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="Riserve_Naturali_Orientate_Regionali_UTM20130926182702167" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Riserve_Naturali_Statali_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="Riserve_Naturali_Statali_UTM20130926182616365" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="SIC_agosto_00_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="SIC_agosto_00_UTM20130926182528169" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="SIC_mare_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="SIC_mare_UTM20130926182328321" visible="0"/>
+                </filegroup>
+            </legendlayer>
+            <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="ZPS_agosto_00_UTM" showFeatureCount="0">
+                <filegroup open="false" hidden="false">
+                    <legendlayerfile isInOverview="0" layerid="ZPS_agosto_00_UTM20130926182140523" visible="0"/>
+                </filegroup>
+            </legendlayer>
+        </legendgroup>
+        <legendgroup open="false" checked="Qt::Unchecked" name="PPTR">
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_1_1_GEOMORFOLOGICHE">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Cordoni Dunari" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Cordoni_Dunari20130926155612766" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Doline" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Doline20130926161540283" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_geositi_100m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_geositi_100m20130926161348522" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Grotte_100m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Grotte_100m20130926161249615" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Inghiottitoi_50m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Inghiottitoi_50m20130926161144482" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Lame_gravine" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Lame_gravine20130926155502314" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_versanti_pendenza20%" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_versanti_pendenza20_20130926155357405" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_1_2_IDROLOGICHE">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_C_150m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_C_150m20130926163222322" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_B_300m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_B_300m20130926163148413" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_A_300m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_A_300m20130926163123226" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_connessioneRER_100m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_connessioneRER_100m20130926163425056" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Sorgenti_25m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Sorgenti_25m20130926162535275" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_Vincolo idrogeologico" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_Vincolo_idrogeologico20130926162748027" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_2_1_BOTANICO_VEGETAZIONALI">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_G" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_G20130926170420940" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_I" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_I20130926170220694" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_aree_umide" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_aree_umide20130926170136671" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_formazioni arbustive" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_formazioni_arbustive20130926170027115" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_pascoli_naturali" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_pascoli_naturali20130926165907983" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_rispetto boschi_100m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_rispetto_boschi_100m20130926165200936" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_2_2_AREE_PROTETTE_SITI_NATURALISTICI">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_F" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_F20130926171025093" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_rilevanza naturalistica" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_rilevanza_naturalistica20130926170913171" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_rispetto parchi_100m" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_rispetto_parchi_100m20130926170811628" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_3_1_CULTURALI">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_136" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_13620130926181117167" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_H" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_H20130926181016016" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="BP_142_M" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="BP_142_M20130926180941170" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_area_rispetto_rete tratturi" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_area_rispetto_rete_tratturi20130926180853243" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_area_rispetto_siti storico culturali" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_area_rispetto_siti_storico_culturali20130926180723013" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_area_rispetto_zone interesse archeologico" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_area_rispetto_zone_interesse_archeologico20130926180620165" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_citta consolidata" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_citta_consolidata20130926180005936" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_paesaggi rurali" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_paesaggi_rurali20130926171816862" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_stratificazione insediativa_rete tratturi" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_stratificazione_insediativa_rete_tratturi20130926171723787" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_stratificazione insediativa_siti storico culturali" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_stratificazione_insediativa_siti_storico_culturali20130926171504166" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+            <legendgroup open="false" checked="Qt::Unchecked" name="6_3_2_PERCETTIVE">
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_coni visuali" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_coni_visuali20130926181556950" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_luoghi panoramici" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_luoghi_panoramici20130926181525342" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_strade panoramiche" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_strade_panoramiche20130926181418642" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+                <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="UCP_strade valenza paesaggistica" showFeatureCount="0">
+                    <filegroup open="false" hidden="false">
+                        <legendlayerfile isInOverview="0" layerid="UCP_strade_valenza_paesaggistica20130926181302196" visible="0"/>
+                    </filegroup>
+                </legendlayer>
+            </legendgroup>
+        </legendgroup>
+        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="comuni_provincia" showFeatureCount="0">
             <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="servizi20130917025603906" visible="1"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_poi.shp" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="tuglie_poi_shp20130917023817015" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="uliveti" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="uliveti20130919172435568" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="conifere" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="conifere20130919172751230" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="latifoglie" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="latifoglie20130919172943537" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="pascoli" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="pascoli20130919173215201" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="capelle_cimitero" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="capelle_cimitero20130919173934315" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="aree_verdi_urbane" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="aree_verdi_urbane20130919181032042" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="edifici_civili" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="edifici_civili20130919180740012" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="tuglie_pol.shp" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="tuglie_pol_shp20130917023540812" visible="1"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="tuglie_lin.shp" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="tuglie_lin_shp20130917023651828" visible="1"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tessuto_residenziale" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="tessuto_residenziale20130919181412321" visible="0"/>
-            </filegroup>
-        </legendlayer>
-        <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="tuglie_UDS.shp" showFeatureCount="0">
-            <filegroup open="false" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="tuglie_UDS_shp20130917024302250" visible="0"/>
+                <legendlayerfile isInOverview="0" layerid="comuni_provincia20130926154858326" visible="1"/>
             </filegroup>
         </legendlayer>
     </legend>
-    <projectlayers layercount="13">
+    <projectlayers layercount="58">
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
-            <id>aree_verdi_urbane20130919181032042</id>
-            <datasource>aree_verdi_urbane.shp</datasource>
+            <id>BP_13620130926181117167</id>
+            <datasource>./BP_136.shp</datasource>
             <title></title>
             <abstract></abstract>
-            <layername>aree_verdi_urbane</layername>
+            <layername>BP_136</layername>
             <srs>
                 <spatialrefsys>
-                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
-                    <srsid>2877</srsid>
-                    <srid>32233</srid>
-                    <authid>EPSG:32233</authid>
-                    <description>WGS 72 / UTM zone 33N</description>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
                     <projectionacronym>utm</projectionacronym>
-                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
                 </spatialrefsys>
             </srs>
             <transparencyLevelInt>255</transparencyLevelInt>
-            <provider encoding="UTF-8">ogr</provider>
+            <provider encoding="System">ogr</provider>
             <vectorjoins/>
             <renderer-v2 symbollevels="0" type="singleSymbol">
                 <symbols>
                     <symbol outputUnit="MM" alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="color" v="128,140,185,255"/>
+                            <prop k="color" v="37,89,149,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="style" v="solid"/>
@@ -157,20 +400,20 @@
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
-            <id>capelle_cimitero20130919173934315</id>
-            <datasource>capelle_cimitero.shp</datasource>
+            <id>BP_142_A_300m20130926163123226</id>
+            <datasource>./BP_142_A_300m.shp</datasource>
             <title></title>
             <abstract></abstract>
-            <layername>capelle_cimitero</layername>
+            <layername>BP_142_A_300m</layername>
             <srs>
                 <spatialrefsys>
-                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
-                    <srsid>2877</srsid>
-                    <srid>32233</srid>
-                    <authid>EPSG:32233</authid>
-                    <description>WGS 72 / UTM zone 33N</description>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
                     <projectionacronym>utm</projectionacronym>
-                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
                     <geographicflag>false</geographicflag>
                 </spatialrefsys>
             </srs>
@@ -181,7 +424,332 @@
                 <symbols>
                     <symbol outputUnit="MM" alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
-                            <prop k="color" v="137,108,242,255"/>
+                            <prop k="color" v="161,171,16,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Id</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_B_300m20130926163148413</id>
+            <datasource>./BP_142_B_300m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_B_300m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="198,133,119,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>TIPO</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_C_150m20130926163222322</id>
+            <datasource>./BP_142_C_150m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_C_150m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="149,82,204,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>ID_PPTR</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_F20130926171025093</id>
+            <datasource>./BP_142_F.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_F</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="217,231,90,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>R_LEGISL</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_G20130926170420940</id>
+            <datasource>./BP_142_G.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_G</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="157,38,129,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_H20130926181016016</id>
+            <datasource>./BP_142_H.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_H</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="188,66,156,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="style" v="solid"/>
@@ -220,6 +788,2568 @@
             <editforminit></editforminit>
             <annotationform></annotationform>
             <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_I20130926170220694</id>
+            <datasource>./BP_142_I.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_I</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="178,186,91,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>R_LEGISL</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>BP_142_M20130926180941170</id>
+            <datasource>./BP_142_M.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>BP_142_M</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="151,106,120,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>Parchi_Nazionali_UTM20130926182758401</id>
+            <datasource>./Parchi_Nazionali_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>Parchi_Nazionali_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="11,230,106,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>Riserve_Naturali_Orientate_Regionali_UTM20130926182702167</id>
+            <datasource>./Riserve_Naturali_Orientate_Regionali_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>Riserve_Naturali_Orientate_Regionali_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="111,180,155,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>Riserve_Naturali_Statali_UTM20130926182616365</id>
+            <datasource>./Riserve_Naturali_Statali_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>Riserve_Naturali_Statali_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="90,224,83,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>SIC_agosto_00_UTM20130926182528169</id>
+            <datasource>./SIC_agosto_00_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>SIC_agosto_00_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="34,128,162,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>SIC_mare_UTM20130926182328321</id>
+            <datasource>./SIC_mare_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>SIC_mare_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="249,182,66,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Cordoni_Dunari20130926155612766</id>
+            <datasource>./UCP_Cordoni Dunari.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Cordoni Dunari</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="57,141,120,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Doline20130926161540283</id>
+            <datasource>./UCP_Doline.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Doline</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="131,74,21,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Grotte_100m20130926161249615</id>
+            <datasource>./UCP_Grotte_100m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Grotte_100m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="63,231,25,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>A01_N_CAT</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Inghiottitoi_50m20130926161144482</id>
+            <datasource>./UCP_Inghiottitoi_50m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Inghiottitoi_50m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="154,41,171,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>FONTE</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Lame_gravine20130926155502314</id>
+            <datasource>./UCP_Lame_gravine.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Lame_gravine</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="245,119,241,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>top_IGM25k</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Sorgenti_25m20130926162535275</id>
+            <datasource>./UCP_Sorgenti_25m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Sorgenti_25m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="161,215,86,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>ID</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_Vincolo_idrogeologico20130926162748027</id>
+            <datasource>./UCP_Vincolo idrogeologico.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_Vincolo idrogeologico</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="162,116,56,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Comune</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_area_rispetto_rete_tratturi20130926180853243</id>
+            <datasource>./UCP_area_rispetto_rete tratturi.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_area_rispetto_rete tratturi</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="151,73,170,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_area_rispetto_siti_storico_culturali20130926180723013</id>
+            <datasource>./UCP_area_rispetto_siti storico culturali.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_area_rispetto_siti storico culturali</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="199,53,24,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_area_rispetto_zone_interesse_archeologico20130926180620165</id>
+            <datasource>./UCP_area_rispetto_zone interesse archeologico.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_area_rispetto_zone interesse archeologico</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="155,188,78,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_aree_umide20130926170136671</id>
+            <datasource>./UCP_aree_umide.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_aree_umide</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="226,155,233,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Id</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_citta_consolidata20130926180005936</id>
+            <datasource>./UCP_citta consolidata.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_citta consolidata</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="209,162,41,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>ID</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_coni_visuali20130926181556950</id>
+            <datasource>./UCP_coni visuali.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_coni visuali</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="8,199,199,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_connessioneRER_100m20130926163425056</id>
+            <datasource>./UCP_connessioneRER_100m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_connessioneRER_100m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="97,206,100,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Nome</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_formazioni_arbustive20130926170027115</id>
+            <datasource>./UCP_formazioni arbustive.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_formazioni arbustive</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="117,64,161,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_geositi_100m20130926161348522</id>
+            <datasource>./UCP_geositi_100m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_geositi_100m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="100,227,202,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Tipo</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_luoghi_panoramici20130926181525342</id>
+            <datasource>./UCP_luoghi panoramici.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_luoghi panoramici</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="marker" name="0">
+                        <layer pass="0" class="SimpleMarker" locked="0">
+                            <prop k="angle" v="0"/>
+                            <prop k="color" v="137,111,32,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="name" v="circle"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="size" v="2"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_paesaggi_rurali20130926171816862</id>
+            <datasource>./UCP_paesaggi rurali.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_paesaggi rurali</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="232,140,202,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>DENOMINAZ</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_pascoli_naturali20130926165907983</id>
+            <datasource>./UCP_pascoli_naturali.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_pascoli_naturali</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="160,121,249,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_rilevanza_naturalistica20130926170913171</id>
+            <datasource>./UCP_rilevanza naturalistica.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_rilevanza naturalistica</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="204,201,28,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>CODICE</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_rispetto_boschi_100m20130926165200936</id>
+            <datasource>./UCP_rispetto boschi_100m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_rispetto boschi_100m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="157,15,192,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_rispetto_parchi_100m20130926170811628</id>
+            <datasource>./UCP_rispetto parchi_100m.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_rispetto parchi_100m</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="151,74,26,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Line" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_strade_panoramiche20130926181418642</id>
+            <datasource>./UCP_strade panoramiche.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_strade panoramiche</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="line" name="0">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="square"/>
+                            <prop k="color" v="31,184,33,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Line" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_strade_valenza_paesaggistica20130926181302196</id>
+            <datasource>./UCP_strade valenza paesaggistica.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_strade valenza paesaggistica</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="line" name="0">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="square"/>
+                            <prop k="color" v="22,243,121,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_stratificazione_insediativa_rete_tratturi20130926171723787</id>
+            <datasource>./UCP_stratificazione insediativa_rete tratturi.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_stratificazione insediativa_rete tratturi</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="27,141,122,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>Num_Ordin</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_stratificazione_insediativa_siti_storico_culturali20130926171504166</id>
+            <datasource>./UCP_stratificazione insediativa_siti storico culturali.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_stratificazione insediativa_siti storico culturali</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="148,133,206,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>CODICE</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>UCP_versanti_pendenza20_20130926155357405</id>
+            <datasource>./UCP_versanti_pendenza20%.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>UCP_versanti_pendenza20%</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +datum=WGS84 +units=m +no_defs</proj4>
+                    <srsid>3117</srsid>
+                    <srid>32633</srid>
+                    <authid>EPSG:32633</authid>
+                    <description>WGS 84 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="128,96,111,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>area_ha</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>ZPS_agosto_00_UTM20130926182140523</id>
+            <datasource>./ZPS_agosto_00_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>ZPS_agosto_00_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="51,189,231,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>aree_verdi_urbane20130919181032042</id>
+            <datasource>./aree_verdi_urbane.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>aree_verdi_urbane</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="128,140,185,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>FID_UDS</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>capelle_cimitero20130919173934315</id>
+            <datasource>./capelle_cimitero.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>capelle_cimitero</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="137,108,242,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>LAYER</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>complessivo_PNR_UTM20130926182932512</id>
+            <datasource>./complessivo_PNR_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>complessivo_PNR_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="63,149,61,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>comuni_provincia20130926154858326</id>
+            <datasource>./provincia/CONFINI COMUNI/comuni_provincia.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>comuni_provincia</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="UTF-8">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="100,144,141,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="no"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="1.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield>AREA</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <edittypes>
+                <edittype type="0" name="AREA"/>
+                <edittype type="0" name="COD_COM"/>
+                <edittype type="0" name="COD_ISTAT"/>
+                <edittype type="0" name="CONVENZION"/>
+                <edittype type="0" name="DATA_CONVE"/>
+                <edittype type="0" name="DXF_TXT"/>
+                <edittype type="0" name="LIMCOM_"/>
+                <edittype type="0" name="LIMCOM_ID"/>
+                <edittype type="0" name="PERIMETER"/>
+                <edittype type="0" name="SUBCLASS"/>
+            </edittypes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <attributeactions/>
+            <overlay display="false" type="diagram">
+                <renderer item_interpretation="linear">
+                    <diagramitem size="0" value="0"/>
+                    <diagramitem size="0" value="0"/>
+                </renderer>
+                <factory sizeUnits="MM" type="Pie">
+                    <wellknownname>Pie</wellknownname>
+                    <classificationfield>0</classificationfield>
+                </factory>
+                <scalingAttribute>0</scalingAttribute>
+            </overlay>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>conifere20130919172751230</id>
@@ -259,7 +3389,7 @@
                 <sizescale field=""/>
             </renderer-v2>
             <customproperties/>
-            <displayfield></displayfield>
+            <displayfield>LAYER</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Etichetta"/>
@@ -281,9 +3411,9 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
@@ -381,9 +3511,9 @@
                 <edittype type="0" name="DESCR"/>
                 <edittype type="0" name="LAYER"/>
             </edittypes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
             <overlay display="false" type="diagram">
                 <renderer item_interpretation="linear">
@@ -396,6 +3526,71 @@
                 </factory>
                 <scalingAttribute>0</scalingAttribute>
             </overlay>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>iba_UTM20130926182849683</id>
+            <datasource>./iba_UTM.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <layername>iba_UTM</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=utm +zone=33 +ellps=WGS72 +towgs84=0,0,4.5,0,0,0.554,0.2263 +units=m +no_defs</proj4>
+                    <srsid>2877</srsid>
+                    <srid>32233</srid>
+                    <authid>EPSG:32233</authid>
+                    <description>WGS 72 / UTM zone 33N</description>
+                    <projectionacronym>utm</projectionacronym>
+                    <ellipsoidacronym>WGS72</ellipsoidacronym>
+                    <geographicflag>false</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <transparencyLevelInt>255</transparencyLevelInt>
+            <provider encoding="System">ogr</provider>
+            <vectorjoins/>
+            <renderer-v2 symbollevels="0" type="singleSymbol">
+                <symbols>
+                    <symbol outputUnit="MM" alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="color" v="148,22,49,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+                <rotation field=""/>
+                <sizescale field=""/>
+            </renderer-v2>
+            <customproperties/>
+            <displayfield></displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Etichetta"/>
+                <family fieldname="" name="MS Shell Dlg 2"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>latifoglie20130919172943537</id>
@@ -435,7 +3630,7 @@
                 <sizescale field=""/>
             </renderer-v2>
             <customproperties/>
-            <displayfield></displayfield>
+            <displayfield>LAYER</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Etichetta"/>
@@ -457,14 +3652,14 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>pascoli20130919173215201</id>
-            <datasource>pascoli.shp</datasource>
+            <datasource>./pascoli.shp</datasource>
             <title></title>
             <abstract></abstract>
             <layername>pascoli</layername>
@@ -500,7 +3695,7 @@
                 <sizescale field=""/>
             </renderer-v2>
             <customproperties/>
-            <displayfield></displayfield>
+            <displayfield>FID_UDS</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Etichetta"/>
@@ -522,9 +3717,9 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0">
@@ -817,7 +4012,7 @@
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
             <id>tessuto_residenziale20130919181412321</id>
-            <datasource>tessuto_residenziale.shp</datasource>
+            <datasource>./tessuto_residenziale.shp</datasource>
             <title></title>
             <abstract></abstract>
             <layername>tessuto_residenziale</layername>
@@ -853,7 +4048,7 @@
                 <sizescale field=""/>
             </renderer-v2>
             <customproperties/>
-            <displayfield></displayfield>
+            <displayfield>FID_UDS</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Etichetta"/>
@@ -875,9 +4070,9 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
         <maplayer minimumScale="0" maximumScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0">
@@ -2966,7 +6161,7 @@
                 <sizescale field=""/>
             </renderer-v2>
             <customproperties/>
-            <displayfield></displayfield>
+            <displayfield>LAYER</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Etichetta"/>
@@ -2988,9 +6183,9 @@
                 <multilineenabled fieldname="" on=""/>
                 <selectedonly on=""/>
             </labelattributes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <attributeactions/>
         </maplayer>
     </projectlayers>
